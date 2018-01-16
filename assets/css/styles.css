@@ -129,6 +129,7 @@ iframe {
   width: 100px;
   height: 100px;
   border-radius: 100%;
+  box-shadow: 10px 10px 5px grey;
 }
 .header .profile-content .name {
   color: #49515a;
